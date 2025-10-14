@@ -70,6 +70,10 @@ The dataset contains information about **1,480 employees** and includes **38 col
 
 ---
 
+## Dashboard Preview 
+
+---
+
 ## 🗓️ Project Timeline & Milestones
 | Phase | Description | Duration |
 |-------|--------------|-----------|
