@@ -100,7 +100,7 @@ The dataset contains information about **1,480 employees** and includes **38 col
 ---
 
 ## ⚙️ Setup & Execution Guide
-1. Download the dataset (`HR_Analytics.csv`)  
+1. Download the dataset [HR_Analytics.csv](./HR_Analytics.csv) 
 2. Open the Power BI file (`HR_Analytics_Dashboard.pbix`)  
 3. Refresh the data source connection  
 4. Explore visuals, filters, and KPIs on the dashboard  
@@ -118,7 +118,7 @@ The dataset contains information about **1,480 employees** and includes **38 col
 ## 📧 Contact Information
 **Author:** Omar Hossam Helmy  
 **Role:** Data Analyst  
-**Email:** [your-email@example.com]  
+**Email:** [omarhossamm74@gmail.com]  
 **LinkedIn:** [linkedin.com/in/omarhossam74](https://www.linkedin.com/in/omarhossam74/)  
 **GitHub:** [github.com/Omar-hossam72](https://github.com/Omar-hossam72)
 
