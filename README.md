@@ -92,9 +92,10 @@ The dataset contains information about **1,480 employees** and includes **38 col
 ## 👥 Roles & Responsibilities
 | Role | Name | Responsibility |
 |------|------|----------------|
-| Data Analyst | Omar Hossam Helmy | Data cleaning, visualization, insights generation |
-| Project Lead | - | Planning, reviewing, and documentation |
-| Reviewer | - | Dashboard testing & validation |
+| **Team Leader / Data Analyst** | Omar Hossam Helmy | Project coordination, dashboard design, insights generation |
+| **Data Analyst** | Mohamed Adel | Data cleaning and EDA |
+| **Data Analyst** | Ahmed Yousri | Power BI dashboard and KPIs visualization |
+| **Data Analyst** | Amira Ibrahim | Documentation and reporting |
 
 ---
 
@@ -118,7 +119,7 @@ The dataset contains information about **1,480 employees** and includes **38 col
 **Author:** Omar Hossam Helmy  
 **Role:** Data Analyst  
 **Email:** [your-email@example.com]  
-**LinkedIn:** [linkedin.com/in/Omar_Hossam]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/omarhossam74/))  
+**LinkedIn:** [linkedin.com/in/omarhossam74](https://www.linkedin.com/in/omarhossam74/)  
 **GitHub:** [github.com/Omar-hossam72](https://github.com/Omar-hossam72)
 
 ---
