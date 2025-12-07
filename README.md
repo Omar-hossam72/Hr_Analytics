@@ -71,7 +71,7 @@ The dataset contains information about **1,480 employees** and includes **38 col
 ---
 
 ## Dashboard Preview   
-
+![HR Dashboard](HR_Dashboard.png)
 
 ---
 
